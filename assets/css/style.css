@@ -14,7 +14,8 @@ h1 {
   font-size: xx-large;
 }
 
-/* main navigation styles rgb(153, 214, 222); */
+/* main navigation styles back up color rgb(153, 214, 222); */
+
 .nav-list {
   background: rgb(180, 243, 168);
   height:5vh;
